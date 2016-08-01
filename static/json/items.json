@@ -1,0 +1,50 @@
+[
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Establish regular feeding/sleeping routines</li>\r\n\t<li>Breastfeed for the first 4-6 months of life </li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Avoid dipping pacifiers in any sweetened liquid, sugar, or syrup</li>\r\n</ul>",
+    "label_name": "Age range 0-3 months",
+    "map_area_shape": "poly",
+    "coordinates": "17,364,28,365,31,363,40,369,38,362,31,356,34,349,46,357,38,343,43,340,48,349,56,354,56,361,55,367,70,369,68,364,76,344,66,338,70,332,84,338,83,352,82,359,88,358,86,350,90,348,98,362,89,369,102,380,107,387,104,396,92,400,73,400,68,398,44,399,26,396,10,392,1,392,4,382,9,373,14,364",
+    "label": "00mo03mo",
+    "id": 16
+},
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Determine if baby is ready for solids  6 months); introduce single-ingredient foods one at a time</li>\r\n\t<li>Increase table foods providing 3 meals and 2-3 snacks per day</li>\r\n\t<li>Wean from bottle by introducing cup</li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Establish a dental home by one year of age or eruption of first tooth</li>\r\n\t<li>Perform an oral health risk assessment at the 6 & 9 month well child visits</li>\r\n\t<li>Assess fluoride source</li>\r\n\t<li>Brush gums/teeth twice daily with a soft toothbrush/cloth and water</li>\r\n\t<li>Avoid bottle in bed</li>\r\n</ul>\r\n",
+    "label_name": "Age range 4-12 months",
+    "map_area_shape": "poly",
+    "coordinates": "120,328,116,322,116,310,116,300,123,290,136,289,148,296,150,305,146,310,150,316,143,322,140,326,152,334,160,340,168,358,174,369,175,385,185,390,186,392,172,394,169,390,168,383,166,374,156,357,154,361,158,371,162,382,158,391,120,398,114,396,116,389,112,385,110,388,104,381,96,374,100,367,106,364,116,372,117,352,115,341,99,344,98,347,90,342,86,340,87,335,100,334,105,333,114,329",
+    "label": "04mo12mo",
+    "id": 17
+},
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Reassure and comfort during stranger/separation anxiety</li>\r\n\t<li>Consistent positive discipline focused on teaching and protection</li>\r\n\t<li>Promote nighttime and sleep routines</li>\r\n\t<li>Encourage language development by singing and reading</li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Brush teeth twice daily with fluoride toothpaste and a soft cloth/brush</li>\r\n\t<li>No bottle in bed</li>\r\n\t<li>After 12 months, a child should be seen by a dentist every 6 months or according to a schedule recommended by the dentist</li>\r\n</ul>",
+    "label_name": "Age range 15-18 months",
+    "map_area_shape": "poly",
+    "coordinates": "152,194,162,187,172,186,184,192,188,186,198,180,198,188,190,192,185,196,190,206,187,212,184,223,178,230,180,234,188,237,197,240,205,256,202,258,209,266,216,280,223,289,228,296,224,301,219,300,220,296,192,269,197,286,196,303,198,311,195,316,195,328,192,332,194,344,196,354,197,364,196,376,202,384,204,391,203,396,191,396,187,384,185,372,180,357,180,350,174,342,172,331,168,327,168,334,164,344,148,330,142,326,149,320,150,312,150,302,146,293,146,284,149,278,148,267,144,274,138,287,134,287,126,288,138,262,134,258,143,242,161,234,151,216,151,199,139,212,130,192",
+    "label": "15mo18mo",
+    "id": 18
+},
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Limit TV, computer, videos to no more than 1-2 hours per day</li>\r\n\t<li>Encourage physical activities</li>\r\n\t<li>Parents and caregivers should firmly establish healthful eating patterns</li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Brush teeth twice daily with fluoride toothpaste (pea-sized amount ages 2 - 5)</li>\r\n</ul>",
+    "label_name": "Age range 2-4 years",
+    "map_area_shape": "poly",
+    "coordinates": "186,182,180,175,176,175,170,165,171,158,175,144,191,128,200,130,214,142,215,154,219,161,219,167,213,172,209,180,213,185,226,187,234,195,243,224,248,232,246,254,242,260,240,268,231,274,230,286,234,304,230,320,228,330,230,340,228,346,230,354,224,355,224,366,228,371,224,386,225,392,220,396,207,394,203,385,206,378,207,374,208,368,210,364,211,355,205,350,205,322,204,310,201,346,196,348,194,332,197,328,197,318,199,308,196,302,197,284,197,273,217,295,218,301,224,303,230,298,225,289,218,280,214,271,204,258,208,255,200,240,190,235,180,231,189,220,191,210,189,198,199,191,201,181,194,178,191,182",
+    "label": "02yr04yr",
+    "id": 19
+},
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Eat breakfast; eat 5+ servings of fruits and vegetables a day</li>\r\n\t<li>Limit candy, soda and high-fat snacks</li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Visit dentist twice/year; brush teeth twice and floss once daily</li>\r\n\t<li>Reduce the risk of injury or trauma to the mouth and teeth and avoiding risk behaviors that affect oral health</li>\r\n</ul>",
+    "label_name": "Age range 5-10 years",
+    "map_area_shape": "poly",
+    "coordinates": "217,144,218,138,216,131,234,94,257,92,271,105,276,120,271,146,276,154,273,157,283,167,292,226,286,256,288,272,283,280,286,304,262,312,261,334,251,366,248,382,253,392,250,397,235,396,232,384,240,357,239,342,242,321,241,314,235,314,236,306,231,289,233,276,239,271,241,263,247,259,248,232,244,218,234,191,220,186,212,181,220,168,221,160,216,150",
+    "label": "05yr10yr",
+    "id": 20
+},
+{
+    "content": "<p><b>Overall Health</b></p>\r\n<ul>\r\n\t<li>Promote a healthy self-image by praising activities/achievements; limit focus on appearance</li>\r\n\t<li>Encourage fruits, vegetables, whole grains, low-fat dairy; limit candy, chips, soda; 3+ servings low fat milk/other dairy a day; encourage family meals</li>\r\n\t<li>Talk about tobacco/alcohol/drug use a; secure alcohol/prescription/stimulant-containing over-the-counter medications in the home</li>\r\n</ul>\r\n\r\n<p><b>Oral Health</b></p>\r\n<ul>\r\n\t<li>Visit dentist twice/year; brush teeth twice and floss once daily</li>\r\n</ul>",
+    "label_name": "Age range 11-21 years",
+    "map_area_shape": "poly",
+    "coordinates": "258,91,262,77,276,70,283,62,278,46,275,46,268,34,270,30,270,16,284,1,298,1,316,12,315,26,309,47,308,56,317,62,337,68,352,94,361,122,357,124,360,136,352,158,342,182,344,198,341,209,331,208,327,202,325,187,334,170,342,140,340,132,334,132,334,142,331,152,324,160,323,184,328,208,321,241,326,256,322,260,338,309,334,323,346,344,352,352,343,358,346,364,342,370,348,383,343,391,341,397,330,399,307,394,308,388,316,379,317,370,307,362,308,343,294,317,292,306,282,310,278,341,270,347,272,370,262,374,254,374,256,361,266,316,279,310,289,302,283,282,290,274,288,260,293,228,287,174,276,158,280,154,272,148,277,124,268,100,263,93",
+    "label": "11yr21yr",
+    "id": 21
+}
+]
