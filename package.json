@@ -1,6 +1,6 @@
 {
   "name": "anticipatoryguidance-pack",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Explore age-specific anticipatory guidance followed by pediatric nurse practitioners",
   "main": "src/index.js",
   "scripts": {
