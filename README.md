@@ -1,6 +1,8 @@
 Standalone Interactive Exercise: Anticipatory Guidance
 ==========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/anticipatoryguidance-pack.svg)](https://greenkeeper.io/)
+
 ##### About anticipatory guidance
 Find out about age-specific anticipatory guidance followed by pediatric nurse practitioners
 
