@@ -1,6 +1,6 @@
 /* global jQuery: true */
 
-import '../static/index.html';
+require('!file-loader?name=[name].[ext]!../static/index.html');
 import './static.js';
 
 // load and apply css
