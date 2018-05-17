@@ -39,6 +39,7 @@ module.exports = {
             "error",
             "single"
         ],
+        "security/detect-object-injection": "off",
         "semi": [
             "error",
             "always"
