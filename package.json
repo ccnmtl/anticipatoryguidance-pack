@@ -69,6 +69,6 @@
     "imagemapchart": "^0.1.1",
     "jquery": "^3.2.1",
     "underscore": "1.10.1",
-    "underscore-template-loader": "^1.0.0"
+    "underscore-template-loader": "^1.1.0"
   }
 }
