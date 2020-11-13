@@ -4,7 +4,7 @@
   "description": "Explore age-specific anticipatory guidance followed by pediatric nurse practitioners",
   "main": "src/index.js",
   "scripts": {
-    "serve": "webpack-dev-server --hot --inline --open",
+    "serve": "webpack serve --hot --inline --mode development",
     "test": "npm run test-unit && npm run test-client",
     "test-unit": "mocha test/model-test.js",
     "test-client": "mocha-chrome test/view-test.html",
@@ -58,7 +58,7 @@
     "style-loader": "^2.0.0",
     "webpack-dev-server": "^3.1.0",
     "webpack": "^4.1.0",
-    "webpack-cli": "~4.1.0"
+    "webpack-cli": "~4.2.0"
   },
   "dependencies": {
     "backbone": "1.4.0",
