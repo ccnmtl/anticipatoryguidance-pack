@@ -1,7 +1,8 @@
+;[![Actions Status](https://github.com/ccnmtl/anticipatoryguidance-pack/workflows/build-and-test/badge.svg)](https://github.com/ccnmtl/anticipatoryguidance-pack/actions)
+
 Standalone Interactive Exercise: Anticipatory Guidance
 ==========
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ccnmtl/anticipatoryguidance-pack.svg)](https://greenkeeper.io/)
 
 ##### About anticipatory guidance
 Find out about age-specific anticipatory guidance followed by pediatric nurse practitioners
